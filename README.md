@@ -24,7 +24,8 @@ The config file should be a JSON file in the format:
             "channels": ...,
             "rate": ...
         }
-    }
+    },
+    ...
 ]
 ```
 
