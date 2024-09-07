@@ -36,3 +36,5 @@ Where:
 - `format` is the format of audio being redrected, can be one of `"F32"`, `"U8"`, `"I8"`, `"I16"`, `"I24"` and  `"I32"`
 - `channels` is the number of audio channels
 - `rate` is the sampling rate
+
+<sup><sub>See `example.redirect` for an example</sub></sup>
