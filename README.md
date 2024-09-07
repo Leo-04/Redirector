@@ -37,4 +37,4 @@ Where:
 - `channels` is the number of audio channels
 - `rate` is the sampling rate
 
-<sup><sub>See `example.redirect` for an example</sub></sup>
+<sup>See `example.redirect` for an example</sup>
