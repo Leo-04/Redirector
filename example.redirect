@@ -1,0 +1,20 @@
+[
+    {
+        "from": {
+            "type": "input",
+            "device": 2,
+            "chunk": 1024,
+            "format": "F32",
+            "channels": 2,
+            "rate": 44100
+        },
+        "to": {
+            "type": "output",
+            "device": 5,
+            "chunk": 1024,
+            "format": "F32",
+            "channels": 2,
+            "rate": 44100
+        }
+    }
+]
